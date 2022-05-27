@@ -1,0 +1,18 @@
+segment_sources:
+  I93AA41BF:
+    type: origin_type
+    relation: translation
+    language: sa
+  I04449C4F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I7437347F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c62bdc4b1ae24076a80102f3acc05a61:
+    I93AA41BF: 6a4dc9286c28433798680edd669be648
+    I04449C4F: 9648b0d53b9849a3a288067f1de9316a
+    I7437347F: 5ef376a35e284e81b92bd4d7e3e61bdb

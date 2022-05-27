@@ -1,0 +1,42 @@
+segment_sources:
+  I93AA41BF:
+    type: origin_type
+    relation: translation
+    language: sa
+  I04449C4F:
+    type: origin_type
+    relation: translation
+    language: bo
+  I7437347F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  aafea8783cbf41029d9ef2f71c2a636d:
+    I93AA41BF: cc8107c2a30a4824b430c69a5651e07c
+    I04449C4F: ddf016066e1a4c9ca9daf6a187fd463a
+    I7437347F: 9c3de659cccd4d68b96b20348c99127f
+  43c41910a5724337910d392fd51a8910:
+    I93AA41BF: 7bf34209b6fa4f48b494cb92672ceb4e
+    I04449C4F: eb201fc29a32402680236830c65a7872
+    I7437347F: 733147ac986f4549866240022484699b
+  7332bbb6051f40dcb0fc4acb0acdede8:
+    I93AA41BF: 74da594d67ef4e13a7b0c33ca01da86a
+    I04449C4F: f8905a7da80049c1b0b6bf10a19baa59
+    I7437347F: b52de0ef795f486d92f0fe1945060521
+  dda49056a01645d1bbcafddd44216575:
+    I93AA41BF: 2fc460a4ac59427aa65886c7db9857a0
+    I04449C4F: 4f27ac2ef86b4fdb87b862eb3dc879cf
+    I7437347F: dd25b76f483949029f6f93eec9395ab0
+  b1cea6ee0ae14ede91656486a6c89a6e:
+    I93AA41BF: 797f7dc66f96421dbb46ea928718c89c
+    I04449C4F: 80f05565cd8345d3b934c989fbcbdd86
+    I7437347F: 0697477f492e458c9b7776f6265ea726
+  86200d19eb534a1b8a12d9c0fde748f6:
+    I93AA41BF: 8c909c5110034d08affd48dcb3f4f4c6
+    I04449C4F: f9402a07ca53477cb7522ed0deec08f0
+    I7437347F: fc9001e3d144469cbeff51b35dd177fa
+  f4fd4d64965d4f82ac0dc604ec1aee22:
+    I93AA41BF: None
+    I04449C4F: 223388c721c843879c3f306d8a9d0ee4
+    I7437347F: 98970a635f14426493ac15d4436eca7f
